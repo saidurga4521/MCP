@@ -1,0 +1,6 @@
+langchain-openai
+langchain-mcp-adapters
+mcp
+langgraph
+langchain
+langchain-google-genai
